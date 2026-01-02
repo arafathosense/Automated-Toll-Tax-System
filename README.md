@@ -8,6 +8,7 @@ This project is designed for **smart transportation systems**, **intelligent tol
 <img width="1114" height="623" alt="image" src="https://github.com/user-attachments/assets/54db420e-91a9-41ad-84ed-d5fc37838784" />
 <img width="1114" height="626" alt="image" src="https://github.com/user-attachments/assets/c81da739-81b1-47ce-a28b-81cbf002127b" />
 <img width="1114" height="623" alt="image" src="https://github.com/user-attachments/assets/72c21748-a7aa-449e-b51a-aff706159da9" />
+<img width="1120" height="618" alt="image" src="https://github.com/user-attachments/assets/c6c74b94-818d-4e93-8814-672b5e1f0c38" />
 
 
 ## 🎯 Key Features
