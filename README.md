@@ -5,9 +5,9 @@ The system leverages **deep learning and computer vision** techniques to ensure 
 
 This project is designed for **smart transportation systems**, **intelligent toll booths**, and **traffic analytics applications**.
 
-
-
-
+<img width="1114" height="623" alt="image" src="https://github.com/user-attachments/assets/54db420e-91a9-41ad-84ed-d5fc37838784" />
+<img width="1114" height="626" alt="image" src="https://github.com/user-attachments/assets/c81da739-81b1-47ce-a28b-81cbf002127b" />
+<img width="1114" height="623" alt="image" src="https://github.com/user-attachments/assets/72c21748-a7aa-449e-b51a-aff706159da9" />
 
 
 ## 🎯 Key Features
